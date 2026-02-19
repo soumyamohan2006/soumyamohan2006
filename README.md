@@ -17,7 +17,7 @@
 
   <p>
     <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
-    <a href="mailto:soumyamohan12106@gmail.com"><img src="https://img.shields.io/badge/📧_soumyamohan12106S@gmail.com-1e1e2e?style=for-the-badge" /></a>
+    <a href="mailto:soumyamohan12106@gmail.com"><img src="https://img.shields.io/badge/📧_soumyamohan12106@gmail.com-1e1e2e?style=for-the-badge" /></a>
     <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Web_Development)-1e1e2e?style=for-the-badge" />
     <img src="https://img.shields.io/badge/🥷_Vigilante_(Secret)-1e1e2e?style=for-the-badge" />
   </p>
